@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="changeDIV" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>changeDIV</name>
+<widget id="changeMenu" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>changeMenu</name>
     <description>
-        Material design div changed
+        Material design menu changed
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
